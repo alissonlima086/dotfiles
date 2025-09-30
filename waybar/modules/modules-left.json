@@ -1,0 +1,7 @@
+{
+    "modules-left": [
+        "custom/left",
+        "custom/media",
+        "custom/right"
+    ]
+}

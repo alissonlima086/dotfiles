@@ -1,0 +1,16 @@
+{
+    "modules-right": [
+        "custom/left",
+        "hyprland/window",
+        "pulseaudio",
+        "custom/volume",
+        "keyboard-state",
+        "cpu",
+        "memory",
+        "temperature",
+        "network",
+        "clock",
+        "custom/power",
+        "custom/right"
+    ]
+}

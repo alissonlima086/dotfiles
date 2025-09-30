@@ -1,0 +1,8 @@
+{
+    "modules-center": [
+        "custom/left",
+        "custom/rofi",
+        "hyprland/workspaces",
+        "custom/right"
+    ]
+}
